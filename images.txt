@@ -1,1 +1,10 @@
 ubuntu:22.04
+ros-jazzy-desktop 
+gz-harmonic
+python3-colcon-common-extensions
+ros-jazzy-ros-gz-sim
+ros-jazzy-ros-gz-bridge
+ros-jazzy-joint-state-publisher
+ros-jazzy-robot-state-publisher
+ros-jazzy-rviz2
+ros-jazzy-sick-scan-xd
